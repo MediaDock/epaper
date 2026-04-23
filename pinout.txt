@@ -1,0 +1,13 @@
+ESP32-S3 Pin Connections for 4.2" e-Paper Display
+===================================================
+
+Signal       | ESP32-S3 Pin
+-------------|-------------
+GND          | GND
+SCL (SCK)    | 12
+DC           | 9
+BUSY         | 3
+VCC          | 3.3V
+SDA (MOSI)   | 11
+CS (SS)      | 10
+RES (RST)    | 4
