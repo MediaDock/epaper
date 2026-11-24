@@ -2,7 +2,7 @@
 // ============================================================
 //  Configuration — edit these values
 // ============================================================
-#define WIFI_SSID          "EPaper-Gallery"
+#define WIFI_SSID          "EPaper"
 #define WIFI_PASSWORD      "epaperpass"
 #define IMAGE_INTERVAL_MS   10000   // default slide interval (overridable via web UI)
 // 0 = landscape 400×300 (recommended)  |  2 = landscape 180°
